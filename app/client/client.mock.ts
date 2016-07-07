@@ -10,5 +10,6 @@ export const CLIENTS: Client[] = [
   { 'id': 17, 'nom': 'Le Rouge' , "prenom" : "Eric", 'age':74, 'caution':20},
   { 'id': 18, 'nom': 'Dormeur', "prenom" : "Gustave", 'age':56, 'caution':30 },
   { 'id': 19, 'nom': 'Intello' , "prenom" : "Etienne", 'age':4, 'caution':40},
-  { 'id': 20, 'nom': 'Sage', "prenom" : "Jules", 'age':85, 'caution':50 }
+  { 'id': 20, 'nom': 'Sage', "prenom" : "Jules", 'age':85, 'caution':50 },
+  { 'id': 21, 'nom': 'Duval' , "prenom" : "Charles", 'age':30, 'caution':112}
 ];
